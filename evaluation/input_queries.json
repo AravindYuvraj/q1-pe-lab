@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "query": "Solve for x: 5x - 7 = 18"
+  },
+  {
+    "id": 2,
+    "query": "What is the area of a circle with radius 7 cm?"
+  },
+  {
+    "id": 3,
+    "query": "Explain the difference between mean, median, and mode."
+  },
+  {
+    "id": 4,
+    "query": "A train travels 120 km in 3 hours. What is its speed?"
+  },
+  {
+    "id": 5,
+    "query": "What is the formula for the volume of a cube?"
+  }
+]
