@@ -1,4 +1,4 @@
-# 📓 Hallucinations Log
+# Hallucinations Log
 
 This document records hallucinations (i.e. factual inaccuracies or misleading information) found in the responses across different prompting strategies.
 
@@ -17,8 +17,8 @@ All methods (Zero-shot, Few-shot, CoT, Meta-prompt) correctly solve the equation
 
 **Hallucinations**:
 
-* ✅ *Zero-shot*: Area = **153.86 cm²**
-* ✅ *Few-shot*, *CoT*, *Meta-prompt*: Area = **152.86 cm²**
+* *Zero-shot*: Area = **153.86 cm²**
+* *Few-shot*, *CoT*, *Meta-prompt*: Area = **152.86 cm²**
 
 **Issue**:
 There's an inconsistency in π approximation:
