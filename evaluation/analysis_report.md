@@ -13,7 +13,7 @@ Comparing the styles across four prompting methods: **zero\_shot**, **few\_shot*
 
 ---
 
-### 📏 **2. Area of Circle with Radius 7 cm**
+###  **2. Area of Circle with Radius 7 cm**
 
 | Prompt Type     | Summary of Style & Content                                                                                                    |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------- |
