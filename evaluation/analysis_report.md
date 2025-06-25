@@ -24,7 +24,7 @@ Comparing the styles across four prompting methods: **zero\_shot**, **few\_shot*
 
 ---
 
-### 📊 **3. Explain Mean, Median, Mode**
+### **3. Explain Mean, Median, Mode**
 
 | Prompt Type     | Summary of Style & Content                                                                                                                                                                                                                         |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,14 +35,13 @@ Comparing the styles across four prompting methods: **zero\_shot**, **few\_shot*
 
 ---
 
-### 🚄 **4. Speed = Distance ÷ Time (120 km in 3 hr)**
+### **4. Speed = Distance ÷ Time (120 km in 3 hr)**
 
 | Prompt Type     | Summary of Style & Content                                                                                                             |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Zero-Shot**   | Friendly, straightforward calculation and gentle closure.                                                                              |
 | **Few-Shot**    | Efficient and formula-focused explanation, ends with clean answer.                                                                     |
 | **CoT**         | Starts well with clear stepwise explanation, but the response is **cut off at the end**, suggesting a truncation or incomplete output. |
-| **Meta-Prompt** | Not included — possibly missing in the provided data.                                                                                  |
 
 ---
 
